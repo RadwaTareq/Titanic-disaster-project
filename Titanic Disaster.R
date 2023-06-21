@@ -1,4 +1,4 @@
-setwd("C:/Users/hassn/Downloads/Titanic Disaster")
+setwd("C:/Users/Radoda/Downloads/Titanic-disaster-project-main/Titanic-disaster-projectr")
  
 installed.packages("nnet") 
 installed.packages("kknn") 
